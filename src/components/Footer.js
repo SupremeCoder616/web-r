@@ -6,9 +6,7 @@ const Footer = () => {
     <>
       {/* <!-- =========footer=========== --> */}
     <section id="footer">
-        {/* <img src="images/footer-img.png" class="footer-img"/> */}
         <div class="title-text">
-            {/* <p>CONTACT</p> */}
             <h1>CONTACT</h1>
         </div>
         <div class="footer-row">

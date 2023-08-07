@@ -12,10 +12,6 @@ const Home = () => {
             <span>MERN Developer</span>
             <div className="ho1">
                 <p>Web Developer | Web Designer </p>
-                    {/* <div className="btn">
-                        <a className="green" href="about.html">Read More</a>
-                        <a className="white" href="contact.html">Contact Us</a>
-                    </div> */}
             </div>
       </section>
       {/* Home */}
@@ -26,7 +22,6 @@ const Home = () => {
       <section id="our-courses">
         <div class="vl"></div>
         <div class="title-text">
-            {/* <samp>&#x2022; OUR EXPERTISE</samp> */}
             <h1>My Skills</h1>
         </div>
 

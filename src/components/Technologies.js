@@ -22,7 +22,6 @@ const Technologies = () => {
                 <div class="features-desc">
                     <div class="feature-icon">
                         <SiJavascript class="fas fa-shield-alt"/>
-                        {/* <i class="fas fa-shield-alt"></i> */}
                     </div>
                     <div class="feature-text">
                         <p>Proficient in JavaScript for dynamic and interactive web development.</p>
@@ -35,7 +34,6 @@ const Technologies = () => {
                 <div class="features-desc">
                     <div class="feature-icon">
                         <GrReactjs class="far fa-check-square"/>
-                        {/* <i class="far fa-check-square"></i> */}
                     </div>
                     <div class="feature-text">
                         <p>Extensive experience in building robust web applications using the React framework.</p>
@@ -48,7 +46,6 @@ const Technologies = () => {
                 <div class="features-desc">
                     <div class="feature-icon">
                         <SiFirebase class="fas fa-rupee-sign"/>
-                        {/* <i class="fas fa-rupee-sign"></i> */}
                     </div>
                     <div class="feature-text">
                         <p>Strong knowledge of Firebase for backend development and database management.</p>
@@ -61,7 +58,6 @@ const Technologies = () => {
                 <div class="features-desc">
                     <div class="feature-icon">
                         <MdEmail class="fas fa-rupee-sign"/>
-                        {/* <i class="fas fa-rupee-sign"></i> */}
                     </div>
                     <div class="feature-text">
                         <p>Proficiency in integrating EmailJS for seamless email functionality.</p>
@@ -74,7 +70,6 @@ const Technologies = () => {
                 <div class="features-desc">
                     <div class="feature-icon">
                         <BsGithub class="fas fa-rupee-sign"/>
-                        {/* <i class="fas fa-rupee-sign"></i> */}
                     </div>
                     <div class="feature-text">
                         <p> Experience in version control and collaboration using Git and GitHub 
@@ -103,7 +98,6 @@ const Technologies = () => {
                 <div class="features-desc">
                     <div class="feature-icon">
                         <IoLogoNodejs class="far fa-check-square"/>
-                        {/* <i class="far fa-check-square"></i> */}
                     </div>
                     <div class="feature-text">
                         <p>Proficient in using Node.js for server-side development.</p>
